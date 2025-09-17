@@ -1,0 +1,13 @@
+models:
+  qwen:
+    path: "./models/Qwen2.5-7B-Instruct"
+    device: "cuda"
+    trust_remote_code: false
+  mistral:
+    path: "./models/Mistral-7B-Instruct-v0.3"
+    device: "cuda"
+    trust_remote_code: true
+  llama:
+    path: "./models/Meta-Llama-3-8B-Instruct"
+    device: "cuda"
+    trust_remote_code: false

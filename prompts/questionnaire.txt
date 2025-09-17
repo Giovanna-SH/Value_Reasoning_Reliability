@@ -1,0 +1,1 @@
+I choose Option {option_number}; My confidence score is {score} points; My reason is {reason}

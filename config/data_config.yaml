@@ -1,0 +1,24 @@
+input:
+  binary_decision:  #all json files of code_change
+    - ""
+  open_response:  #xlsx
+    - ""
+  persuasion: #xlsx
+    - ""
+  questionnaire: #all json files of Q
+    - ""
+  open_questionnaire:  #xlsx
+    - ""
+  persuasion_questionnaire: #xlsx
+    - ""
+  stance_detection: #xlsx
+    - ""
+
+output:
+  binary_decision: "./data/output/binary_decision/"
+  open_response: "./data/output/open_response/"
+  persuasion: "./data/output/persuasion/"
+  questionnaire: "./data/output/questionnaire/"
+  open_questionnaire: "./data/output/open_questionnaire/"
+  persuasion_questionnaire: "./data/output/persuasion_questionnaire/"
+  stance_detection: "./data/output/stance_detection/"

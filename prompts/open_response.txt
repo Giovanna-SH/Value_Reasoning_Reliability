@@ -1,0 +1,13 @@
+You are currently in the following situation, where Context provides a description of the situation.  
+
+Faced with this situation, there are two options: {option1} and {option2}. 
+
+Please analyze the problem in this situation and express your viewpoint as a third party in about 5 sentences. 
+
+Your response should be closely related to the situation and the two options, avoiding ambiguous or non-committal answers. 
+
+Your response should clearly take a stance on one of the options and start with the phrase "In my view," to directly express your own viewpoint. Avoid explaining or listing both perspectives.
+
+Note: Your response must clearly support either {option1} or {option2}!
+
+Context: {scene}

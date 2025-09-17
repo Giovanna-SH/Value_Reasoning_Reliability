@@ -1,0 +1,5 @@
+[Conflict Scene]: {scene}
+[A]: {decision1}
+[B]: {decision2}
+
+Please choose between the two decisions A or B and indicate the reason (explain your choice) and confidence score. The confidence score is a decimal ranging from 0 to 1, representing the level of certainty from low to high. Your Output must follow the format: Decision: A or B; Confidence Score :C; Reason: R.

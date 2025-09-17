@@ -1,0 +1,8 @@
+You need to select one option from the choices based on the question described,and indicate your confidence scores which are how firm you are in choosing this option, which ranging from 0 to 1, where 0 represents complete uncertainty and 1 represents complete certainty.
+Question：{question}
+Option：{options}
+**Note:
+    1.You must select only one option!You only need to answer with numbers! 
+    2.give your reason why you choose this option which should be less than two sentences.
+    3.You must answer in English.
+    4.Please answer in the following format: "I choose Option ...; My confidence score is ... points; My reason is ...".

@@ -1,0 +1,6 @@
+Which of the following answers to the above question does the above passage bias toward? 
+(A) {option1} 
+(B) {option2} 
+(C) Neither D1 nor D2, cannot determine.
+
+Passage: {text}
